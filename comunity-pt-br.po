@@ -218,6 +218,7 @@ msgstr "**Total de partidas: {count}**"
 
 msgid "At least one team must have a positive score."
 msgstr "Pelo menos um time precisa ter uma pontuação positiva."
+
 # bot/match/match.py
 
 msgid "The match must be on the waiting report stage."
@@ -356,7 +357,7 @@ msgid "{member} has aborted the check-in."
 msgstr "{member} cancelou a checagem."
 
 msgid "Reverting {queue} to the gathering stage..."
-msgstr "Revertendo o {queue} para a fase de fila..."
+msgstr "Revertendo o {queue} para a fase de procura de jogadores..."
 
 msgid "{members} was not ready in time."
 msgstr "{members} não estavam prontos essa vez."
@@ -368,7 +369,7 @@ msgid "{member} lost, its **{side}**!"
 msgstr "{member} perdeu, é **{side}**!"
 
 msgid "heads"
-msgstr "орёл"
+msgstr "cara"
 
 msgid "tails"
-msgstr "решка"
+msgstr "coroa"
