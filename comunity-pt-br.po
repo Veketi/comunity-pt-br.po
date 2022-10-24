@@ -158,27 +158,27 @@ msgid " ID | Prisoner | Left | Reason"
 msgstr " ID | Prisioneiro | Saiu | Motivo"
 
 msgid "You have been banned, `{duration}` left."
-msgstr "Você foi banido, `{duration}` restante."
+msgstr "Você foi banido, `{duration}` restante(s)."
 
 msgid "Noadds are empty."
 msgstr "Список пуст."
 
 msgid "!auto_ready command is turned off on this channel."
-msgstr "Команда !auto_ready выключена на этом канале."
+msgstr "O comando !auto_ready está desligado nesse canal."
 
 msgid "Maximum auto_ready duration is {duration}."
-msgstr "Максимальное допустимое значение для автоматического подтверждения - {duration}."
+msgstr "Duração máxima do auto_ready é - {duration}."
 
 msgid "Your automatic ready confirmation is now turned off."
-msgstr "Ваше автоматическое подтверждение выключено."
+msgstr "Sua confirmação automática de pronto foi desligada."
 
 msgid "During next {duration} your match participation will be confirmed automatically."
-msgstr "В течение {duration} ваше участие будет подтверждено автоматически."
+msgstr "Durante o(s) próximo(s) {duration} sua participação nas partidas não será confirmada automaticamente."
 
 # bot/queues/pickup_queue.py
 
 msgid "{role} Please add to **{name}** pickup, `{left}` players left!"
-msgstr "{role} Добавляйтесь в **{name}** пикап, осталось `{left}` игроков!"
+msgstr "{role} Por favor adicione a **{name}** пикап, осталось `{left}` игроков!"
 
 msgid "Not enough players to start the queue."
 msgstr "Недостаточно участников для старта."
@@ -372,4 +372,4 @@ msgid "heads"
 msgstr "орёл"
 
 msgid "tails"
-msgstr "решка"msgid ""
+msgstr "решка"
