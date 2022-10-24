@@ -262,110 +262,110 @@ msgid "Waiting on:"
 msgstr "Esperando por:"
 
 msgid "Please react with {ready_emoji} to **check-in** or {not_ready_emoji} to **abort**!"
-msgstr "Por favor reaja com {ready_emoji} para **confirmar** sua checagem ou {not_ready_emoji} para **cancelar** !"
+msgstr "Por favor reaja com {ready_emoji} para **confirmar** a sua checagem ou {not_ready_emoji} para **cancelar** !"
 
 msgid "Please react with {ready_emoji} or vote for a map to **check-in**."
-msgstr "r {ready_emoji} или проголосуйте за карту чтобы **подтвердить** участие."
+msgstr "Por favor reaja com {ready_emoji} ou vote em um mapa para **confimar** a sua checagem ."
 
 msgid "React with {not_ready_emoji} to **abort**!"
-msgstr "Нажмите {not_ready_emoji} чтобы **abort** участие!"
+msgstr "Reaja com {not_ready_emoji} para **cancelar** a sua checagem!"
 
 msgid "__**{queue}** is now on the draft stage!__"
-msgstr "__**{queue}** на стадии драфта!__"
+msgstr "__**{queue}** está agora na fase de montagem dos times!__"
 
 msgid "empty"
-msgstr "пусто"
+msgstr "vazio"
 
 msgid "Unpicked:"
-msgstr "Кандидаты:"
+msgstr "Não escolhidos:"
 
 msgid "Pick players with `{prefix}pick @player` command."
-msgstr "Выбирайте участников с помощью `{prefix}pick @player`."
+msgstr "Escolha jogadores com o comando: `{prefix}pick @player`."
 
 msgid "{member}'s turn to pick!"
-msgstr "Черёд выбирать {member}!"
+msgstr "É a vez de {member} de escolher!"
 
 msgid "Type {cmd} to become a captain and start picking teams."
-msgstr "Используйте {cmd} чтобы стать капитаном и начать выбирать игроков."
+msgstr "Escreva {cmd} para virar capitão e começar a escolher os times."
 
 msgid "__**{queue}** has started!__"
-msgstr "__**{queue}** начался!__"
+msgstr "__**{queue}** iniciou!__"
 
 msgid "Players"
-msgstr "Участники"
+msgstr "Jogadores"
 
 msgid "Captains"
-msgstr "Капитаны"
+msgstr "Capitães"
 
 msgid "Map"
-msgstr "Карта"
+msgstr "Mapa"
 
 msgid "Maps"
-msgstr "Карты"
+msgstr "Mapas"
 
 msgid "Server"
-msgstr "Сервер"
+msgstr "Servidor"
 
 msgid "Player streams"
-msgstr "Трансляции игроков"
+msgstr "Jogadores fazendo live"
 
 msgid "Winner"
-msgstr "Победитель"
+msgstr "Ganhador"
 
 # bot/match/draft.py
 
 msgid "The match is not on the draft stage."
-msgstr "Матч не на стадии драфта."
+msgstr "A partida não está na faze de montagem de times."
 
 msgid "You must possess the captain's role."
-msgstr "Необходимо иметь роль капитана."
+msgstr "Você precisa possuir o cargo de capitão."
 
 msgid "Team {name} already have a captain."
-msgstr "Команда {name} уже имеет капитана."
+msgstr "Time {name} já possui um capitão."
 
 msgid "You are not a captain."
-msgstr "Вы не являетесь капитаном команды."
+msgstr "Você não é o capitão."
 
 msgid "Not your turn to pick."
-msgstr "Не ваша очередь выбирать."
+msgstr "Não é sua vez de escolher."
 
 msgid "Specified player not in the unpicked list."
-msgstr "Указанный участник не в списке кандидатов."
+msgstr "Jogador especificado não está na lista de jogadores não escolhidos."
 
 msgid "The match must be on the check-in, draft or waiting report stage."
-msgstr "Матч должен быть на стадии подтверждения участников, драфта или ожидания результата."
+msgstr "A partida deve estar na fase de checagem, montagem de times ou de espera de report."
 
 msgid "You have stopped looking for a substitute."
-msgstr "Вы больше не ищете замену."
+msgstr "Você parou de procurar por um substituto."
 
 msgid "You are now looking for a substitute."
-msgstr "Вы ищете замену."
+msgstr "Você agora está procurando por um substituto."
 
 msgid "Specified player is not looking for a substitute."
-msgstr "Указаный участник не ищет замену."
+msgstr "Jogador especificado não está procurando por um substituto."
 
 # bot/match/check_in.py
 
 msgid "The match is not on the check-in stage."
-msgstr "Матч не на стадии подтверждения участников."
+msgstr "A partida não está na fase de checagem."
 
 msgid "Discarding check-in is not allowed."
-msgstr "Отмена участия запрещена."
+msgstr "Descarater a fase de checagem não é permitido."
 
 msgid "{member} has aborted the check-in."
-msgstr "{member} отменил свое участие."
+msgstr "{member} cancelou a checagem."
 
 msgid "Reverting {queue} to the gathering stage..."
-msgstr "Возвращаем {queue} на стадию сбора..."
+msgstr "Revertendo o {queue} para a fase de fila..."
 
 msgid "{members} was not ready in time."
-msgstr "Не подтвердили участие: {members}."
+msgstr "{members} não estavam prontos essa vez."
 
 msgid "{member} won, its **{side}**!"
-msgstr "{member} выиграл, выпадает **{side}**!"
+msgstr "{member} ganhou, é **{side}**!"
 
 msgid "{member} lost, its **{side}**!"
-msgstr "{member} проиграл, выпадает **{side}**!"
+msgstr "{member} perdeu, é **{side}**!"
 
 msgid "heads"
 msgstr "орёл"
