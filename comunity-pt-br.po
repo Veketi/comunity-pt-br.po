@@ -17,7 +17,7 @@ msgid "You must possess moderator permissions."
 msgstr "Você necessita de permissões de moderador."
 
 msgid "expire time ran off"
-msgstr "время expire истекло"
+msgstr "tempo de espera acabou"
 
 msgid "member offline"
 msgstr "membro offline"
@@ -89,19 +89,19 @@ msgid "Could not find match with specified id. Check `{prefix}matches`."
 msgstr "Não foi possível encontrar a partida com o id específico. Checar `{prefix} partidas`."
 
 msgid "You have {duration} expire time left."
-msgstr "У вас осталось {duration} времени expire."
+msgstr "Você têm {duration} de tempo de espera."
 
 msgid "You don't have an expire timer set right now."
-msgstr "У вас не установлен таймер expire."
+msgstr "Você não tem um tempo de espera nesse momento."
 
 msgid "Invalid duration format. Syntax: 3h2m1s or 03:02:01."
-msgstr "Неверный формат времени. Пример: 3h2m1s или 03:02:01."
+msgstr "Formatação de tempo inválida. Sintaxe: 3h2m1s ou 03:02:01."
 
 msgid "Expire time must be less than {time}."
-msgstr "Время expire должно быть меньше {time}."
+msgstr "Tempo de espera precisa ser menor que {time}."
 
 msgid "Set your expire time to {duration}."
-msgstr "Ваш таймер expire сработает через {duration}."
+msgstr " {duration}."
 
 msgid "Invalid duration format. Syntax: 3h2m1s or 03:02:01 or AFK."
 msgstr "Неверный формат времени. Пример: 3h2m1s или 03:02:01 или AFK."
