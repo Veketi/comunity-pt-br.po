@@ -178,7 +178,7 @@ msgstr "Durante o(s) próximo(s) {duration} sua participação nas partidas não
 # bot/queues/pickup_queue.py
 
 msgid "{role} Please add to **{name}** pickup, `{left}` players left!"
-msgstr "{role} Por favor adicione a **{name}** пикап, осталось `{left}` игроков!"
+msgstr "{role} Por favor adicione a **{name}**, `{left}` jogadores saíram!"
 
 msgid "Not enough players to start the queue."
 msgstr "Não há players suficientes para iniciar a fila."
@@ -227,45 +227,45 @@ msgid "You must be a team captain to report a loss or draw."
 msgstr "Você precisa ser um capitão de time para reportar uma derrota ou empate."
 
 msgid "{self} is calling a draw, waiting for {enemy} to type `{prefix}rd`."
-msgstr "{self} está pedindo por , ожидаем `{prefix}rd` от {enemy}."
+msgstr "{self} está pedindo por um empate, espetando por {enemy} para escrever `{prefix}rd`."
 
 msgid "{self} offers to cancel the match, waiting for {enemy} to type `{prefix}rc`."
-msgstr "{self} предлагает отмену матча, ожидаем `{prefix}rc` от {enemy}."
+msgstr "{self} se oferece para cancelar a partida, esperando por {enemy} para escrever `{prefix}rc`."
 
 msgid "Specified team name not found."
-msgstr "Указанная команда не найдена."
+msgstr "Nome do time especificado não encontrado."
 
 msgid "Match {queue} ({id}) has timed out."
-msgstr "Истекло время ожидания для матча {queue} ({id})."
+msgstr "Partida {queue} ({id}) teve o tempo esgotado."
 
 msgid "{players} your match has been canceled."
-msgstr "{players} ваш матч был отменен."
+msgstr "{players} sua partida foi cancelada."
 
 msgid "No changes to apply."
-msgstr "Нет изменений."
+msgstr "Nenhuma mudança para aplicar."
 
 msgid "Removed `{count}` roles from you."
-msgstr "С Вас снято `{count}` ролей."
+msgstr "Removido `{count}` cargo(s) de você."
 
 msgid "Added `{count}` roles to you."
-msgstr "Вам добавлено `{count}` ролей."
+msgstr "Adicionado `{count}` cargo(s) para você."
 
 msgid "{players} were removed from the match."
-msgstr "{players} были сняты с матча."
+msgstr "{players} foram removidos da partida."
 
 # bot/match/embeds.py
 
 msgid "__**{queue}** is now on the check-in stage!__"
-msgstr "__**{queue}** на стадии подтверждения участников!__"
+msgstr "__**{queue}** está agora na fase de checagens!__"
 
 msgid "Waiting on:"
-msgstr "Ожидаем:"
+msgstr "Esperando por:"
 
 msgid "Please react with {ready_emoji} to **check-in** or {not_ready_emoji} to **abort**!"
-msgstr "Нажмите {ready_emoji} чтобы **подтвердить** или {not_ready_emoji} чтобы **отменить** участие!"
+msgstr "Por favor reaja com {ready_emoji} para **confirmar** sua checagem ou {not_ready_emoji} para **cancelar** !"
 
 msgid "Please react with {ready_emoji} or vote for a map to **check-in**."
-msgstr "Нажмите {ready_emoji} или проголосуйте за карту чтобы **подтвердить** участие."
+msgstr "r {ready_emoji} или проголосуйте за карту чтобы **подтвердить** участие."
 
 msgid "React with {not_ready_emoji} to **abort**!"
 msgstr "Нажмите {not_ready_emoji} чтобы **abort** участие!"
