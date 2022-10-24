@@ -161,7 +161,7 @@ msgid "You have been banned, `{duration}` left."
 msgstr "Você foi banido, `{duration}` restante(s)."
 
 msgid "Noadds are empty."
-msgstr "Список пуст."
+msgstr "Noadds está vazio."
 
 msgid "!auto_ready command is turned off on this channel."
 msgstr "O comando !auto_ready está desligado nesse canal."
@@ -181,54 +181,53 @@ msgid "{role} Please add to **{name}** pickup, `{left}` players left!"
 msgstr "{role} Por favor adicione a **{name}** пикап, осталось `{left}` игроков!"
 
 msgid "Not enough players to start the queue."
-msgstr "Недостаточно участников для старта."
+msgstr "Não há players suficientes para iniciar a fila."
 
 msgid "**{queue}** pickup has started @ {channel}!"
-msgstr "**{queue}** пикап начался @ {channel}!"
+msgstr "**{queue}** fase de escolhas inciou @ {channel}!"
 
 msgid "Server for **{queue}** is not set."
-msgstr "Сервер для **{queue}** не указан."
+msgstr "Servidor para **{queue}** não está pronto."
 
 msgid "Server for **{queue}**"
-msgstr "Сервер для **{queue}**"
+msgstr "Servidor para **{queue}**"
 
 msgid "Maps for **{queue}**"
-msgstr "Карты для **{queue}**"
+msgstr "Mapas para **{queue}**"
 
 msgid "Stats for __{target}__"
-msgstr "Статистика для __{target}__"
+msgstr "Estatísticas para __{target}__"
 
 msgid "Top 10 players for __{target}__"
-msgstr "ТОП 10 игроков для __{target}__"
+msgstr "Top 10 players para __{target}__"
 
 msgid "day"
-msgstr "день"
+msgstr "dia"
 
 msgid "week"
-msgstr "неделя"
+msgstr "semana"
 
 msgid "month"
-msgstr "месяц"
+msgstr "mês"
 
 msgid "year"
-msgstr "год"
+msgstr "ano"
 
 msgid "**Total matches: {count}**"
-msgstr "**Всего матчей: {count}**"
+msgstr "**Total de partidas: {count}**"
 
 msgid "At least one team must have a positive score."
-msgstr "Хотя бы одна команда должна иметь положительный счет."
-
+msgstr "Pelo menos um time precisa ter uma pontuação positiva."
 # bot/match/match.py
 
 msgid "The match must be on the waiting report stage."
-msgstr "Матч должен быть на стадии ожидания результата."
+msgstr "A partida deve estar esperando a fase de reporte."
 
 msgid "You must be a team captain to report a loss or draw."
-msgstr "Необходимо быть капитаном команды."
+msgstr "Você precisa ser um capitão de time para reportar uma derrota ou empate."
 
 msgid "{self} is calling a draw, waiting for {enemy} to type `{prefix}rd`."
-msgstr "{self} предлагает ничью, ожидаем `{prefix}rd` от {enemy}."
+msgstr "{self} está pedindo por , ожидаем `{prefix}rd` от {enemy}."
 
 msgid "{self} offers to cancel the match, waiting for {enemy} to type `{prefix}rc`."
 msgstr "{self} предлагает отмену матча, ожидаем `{prefix}rc` от {enemy}."
