@@ -50,43 +50,43 @@ msgid "You are not allowed to add to queues on this channel."
 msgstr "Você não tem permissão para adicionar filas nesse canal."
 
 msgid "You are not allowed to add to {queues} queues."
-msgstr "Вам не разрешено добавлятся в очереди {queues}."
+msgstr "Você não tem permissão para adicionar {queues}."
 
 msgid "You are already in an active match."
-msgstr "Вы уже находитесь в активном матче."
+msgstr "Você já está em uma partida ativa."
 
 msgid "You are not in an active match."
-msgstr "Вы не в активном матче."
+msgstr "Você não está em uma partida ativa."
 
 msgid "Specified user not found."
-msgstr "Указанный пользователь не найден."
+msgstr "Usuário específico não encontrado."
 
 msgid "Specified user is not in a match."
-msgstr "Указанный пользователь не находится в матче."
+msgstr "Usuário еspecífico não está em uma partida."
 
 msgid "Specified user is in an active match."
-msgstr "Указанный пользователь уже находится в матче."
+msgstr "Usuário еspecífico está em uma partida."
 
 msgid "Matches"
-msgstr "Матчей"
+msgstr "partidas"
 
 msgid "Rank"
-msgstr "Ранг"
+msgstr "Rank"
 
 msgid "Rating"
-msgstr "Рейтинг"
+msgstr "Classificação"
 
 msgid "Winrate"
-msgstr "Винрейт"
+msgstr "Taxa de Vitórias"
 
 msgid "Last changes:"
-msgstr "Последние изменения:"
+msgstr "últimas mudanças:"
 
 msgid "No rating data found."
-msgstr "Нет данных рейтинга."
+msgstr "Nenhuma informação sobre classificação encontrada."
 
 msgid "Could not find match with specified id. Check `{prefix}matches`."
-msgstr "Матч с указаным id не найден. Проверьте `{prefix}matches`."
+msgstr "Não foi possível encontrar a partida com o id específico. Checar `{prefix} partidas`."
 
 msgid "You have {duration} expire time left."
 msgstr "У вас осталось {duration} времени expire."
