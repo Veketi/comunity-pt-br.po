@@ -3,51 +3,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "_lang"
-msgstr "ru"
+msgstr "pt-br"
 
 # bot/queue_channel.py
 
 msgid "no players"
-msgstr "нет игроков"
+msgstr "sem jogadores"
 
 msgid "You must possess admin permissions."
-msgstr "Необходимы права администратора."
+msgstr "Você necessita de permissões de administrador."
 
 msgid "You must possess moderator permissions."
-msgstr "Необходимы права модератора."
+msgstr "Você necessita de permissões de moderador."
 
 msgid "expire time ran off"
 msgstr "время expire истекло"
 
 msgid "member offline"
-msgstr "пользователь оффлайн"
+msgstr "membro offline"
 
 msgid "member AFK"
-msgstr "пользователь AFK"
+msgstr "membro AFK"
 
 msgid "member left the guild"
-msgstr "пользователь покинул гильдию"
+msgstr "membro saiu da guilda"
 
 msgid "queue started on another channel"
-msgstr "начался пикап на другом канале"
+msgstr "A fila foi iniciada em outro canal"
 
 msgid "removed by a moderator"
-msgstr "удалён модератором"
+msgstr "removido por um moderador"
 
 msgid "{member} were removed from all queues ({reason})."
-msgstr "{member} был удален из всех очередей ({reason})."
+msgstr "{member} foi removido de todas as filas ({reason})."
 
 msgid "{members} were removed from all queues ({reason})."
-msgstr "{members} были удалены из всех очередей ({reason})."
+msgstr "{members} foram removidos de todas as filas ({reason})."
 
 msgid "Success"
-msgstr "Успешно"
+msgstr "Sucesso"
 
 msgid "Error"
-msgstr "Ошибка"
+msgstr "Erro"
 
 msgid "You are not allowed to add to queues on this channel."
-msgstr "Вам не разрешено добавлятся в очереди на этом канале."
+msgstr "Você não tem permissão para adicionar filas nesse canal."
 
 msgid "You are not allowed to add to {queues} queues."
 msgstr "Вам не разрешено добавлятся в очереди {queues}."
@@ -747,3 +747,6 @@ msgstr "орёл"
 
 msgid "tails"
 msgstr "решка"
+
+
+
