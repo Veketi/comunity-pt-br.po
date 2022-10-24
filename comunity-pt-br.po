@@ -26,7 +26,7 @@ msgid "member AFK"
 msgstr "membro AFK"
 
 msgid "member left the guild"
-msgstr "membro saiu da guilda"
+msgstr "membro saiu do servidor"
 
 msgid "queue started on another channel"
 msgstr "A fila foi iniciada em outro canal"
@@ -59,13 +59,13 @@ msgid "You are not in an active match."
 msgstr "Você não está em uma partida ativa."
 
 msgid "Specified user not found."
-msgstr "Usuário específico não encontrado."
+msgstr "Usuário especificado não encontrado."
 
 msgid "Specified user is not in a match."
-msgstr "Usuário еspecífico não está em uma partida."
+msgstr "Usuário еspecificado não está em uma partida."
 
 msgid "Specified user is in an active match."
-msgstr "Usuário еspecífico está em uma partida."
+msgstr "Usuário еspecificado está em uma partida."
 
 msgid "Matches"
 msgstr "partidas"
@@ -86,7 +86,7 @@ msgid "No rating data found."
 msgstr "Nenhuma informação sobre classificação encontrada."
 
 msgid "Could not find match with specified id. Check `{prefix}matches`."
-msgstr "Não foi possível encontrar a partida com o id específico. Checar `{prefix} partidas`."
+msgstr "Não foi possível encontrar a partida com o id especificado. Checar `{prefix} partidas`."
 
 msgid "You have {duration} expire time left."
 msgstr "Você têm {duration} de tempo de espera."
@@ -101,64 +101,64 @@ msgid "Expire time must be less than {time}."
 msgstr "Tempo de espera precisa ser menor que {time}."
 
 msgid "Set your expire time to {duration}."
-msgstr " {duration}."
+msgstr "Defina o seu tempo de espera para {duration}."
 
 msgid "Invalid duration format. Syntax: 3h2m1s or 03:02:01 or AFK."
-msgstr "Неверный формат времени. Пример: 3h2m1s или 03:02:01 или AFK."
+msgstr "Formatação de tempo inválida. Sintaxe: 3h2m1s ou 03:02:01 ou AFK."
 
 msgid "You will be removed from queues on AFK status by default."
-msgstr "Вас будет удалять из очередей по AFK статусу."
+msgstr "Você será removido de filas caso seu status estiver ausente por padrão."
 
 msgid "Your expire time value will fallback to guild's settings."
-msgstr "Ваш таймер expire будет использовать настройки гильдии."
+msgstr "O valor do seu tempo de espera seguirá as configurações do servidor."
 
 msgid "Your default expire time is {time}."
-msgstr "Ваш expire таймер установлен на {time}."
+msgstr "O seu tempo de espera padrão é {time}."
 
 msgid "Your offline immunity is **off**."
-msgstr "Ваш иммунитет оффлайн статуса **выключен**."
+msgstr "Sua imunidade de offline está **desligada**."
 
 msgid "Your offline immunity is **on** until the next match."
-msgstr "Ваш иммунитет оффлайн статуса **включен** до следующего матча."
+msgstr "Sua imunidade de offline está **ligada** até a próxima partida."
 
 msgid "> no active matches"
-msgstr "> нет активных матчей"
+msgstr "> nenhuma partida ativa"
 
 msgid "Nothing to promote."
-msgstr "Нет цели для promote."
+msgstr "Nada para promover."
 
 msgid "Specified queue not found."
-msgstr "Указанная очередь не найдена."
+msgstr "Fila especificada não encontrada."
 
 msgid "You're promoting too often, please wait `{delay}` until next promote."
-msgstr "Слишком часто, подождите `{delay}` до следующего раза."
+msgstr "Você está promovendo muitas vezes, por favor espere `{delay}` até a próxima promoção."
 
 msgid "Done."
-msgstr "Готово."
+msgstr "Feito."
 
 msgid "Your DM notifications is now turned off."
-msgstr "Ваши DM оповещения выключены."
+msgstr "Suas notificações via DM agora estão desligadas."
 
 msgid "Your DM notifications is now turned on."
-msgstr "Ваши DM оповещения включены."
+msgstr "Suas notificações via DM agora estão ligadas."
 
 msgid "Leaderboard is empty."
-msgstr "Таблица лидеров пуста"
+msgstr "O placar está vazio."
 
 msgid "Nothing found"
-msgstr "Нет результатов"
+msgstr "Nada encontrado"
 
 msgid "Banned **{member}** for `{duration}`."
-msgstr "Забанил **{member}** на `{duration}`."
+msgstr "**{member}** foi banido por `{duration}`."
 
 msgid "Specified member is not banned."
-msgstr "Указаный пользователь не забанен."
+msgstr "Membro especificado não está banido."
 
 msgid " ID | Prisoner | Left | Reason"
-msgstr " ID | Заключенный | Осталось | Основание"
+msgstr " ID | Prisioneiro | Saiu | Motivo"
 
 msgid "You have been banned, `{duration}` left."
-msgstr "Вы забанены, осталось `{duration}`."
+msgstr "Você foi banido, `{duration}` restante."
 
 msgid "Noadds are empty."
 msgstr "Список пуст."
